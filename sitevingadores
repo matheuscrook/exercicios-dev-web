@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+
+body {
+background-color: lightgray;
+}
+
+img {
+border-style: ridge;
+}
+
+h1 {
+font-family: "Georgia", serif;
+-webkit-text-fill-color: #8b0000;
+-webkit-text-stroke: 1px;
+}
+
+</style>
+
+
+
+
+</head>
+
+<body>
+
+<center>
+<h1>Vingadores Ultimato</h1>
+</center>
+
+<img width="350" height="250" src="https://andr.com.br/csi/profluciene/Imagem/capa.png">
+</img>
+
+<br>
+<audio controls src="https://andr.com.br/csi/profluciene/Audio/musica.mp3">
+</audio></br>
+
+<h2>Informações gerais do filme</h2>
+
+Tempo: <i>3h 1min</i>
+<br>Data de lançamento: <i>25/04/2019</br></i>
+
+<h3>Gêneros</h3>
+
+<ul>
+<li>Ação</li>
+<li>Aventura</li>
+<li>Ficção cientifica</li>
+</ul>
+
+<h3>Sinopse</h3>
+
+Após Thanos eliminar metade das criaturas vivas, os <b>Vingadores</b> têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.
+
+<h3>Alguns personagens marcantes do filme</h3>
+
+
+
+<table style="width: 40%">
+<tr>
+  <th>Personagem</th>
+  <th>Ator</th>
+</tr>
+
+ <td>Homem de Ferro</td>
+ <td>Robert Downey Jr.</td>
+</tr>
+
+ <td>Capitão America</td>
+ <td>Chris Evans</td>
+</tr>
+
+<td>Hulk</td>
+<td>Mark Ruffalo</td>
+</tr>
+
+<td>Thor</td>
+<td>Chris Hemsworth</td>
+</tr>
+
+<td>Viuva Negra</td>
+<td>Scarlett Johansson</td>
+</tr>
+
+</table>
+
+<h2>Trailer</h2>
+
+<video controls width="450" height="250" src="https://andr.com.br/csi/profluciene/Video/trailer.mp4">
+</video>
+
+<h1>Comentários de pessoas que assistiram o filme</h1>
+
+<b>Luiza</b>
+   <br>Bom filme.</br>
+
+<br>
+<b>Marcos</b>
+<br>Melhor filme da série.</br>
+
+<br>
+<b>Fernanda</b>
+<br>Filmes de herois são clichês.
+</br>
+
+<h2>Referência</h2>
+
+<hr>
+
+Todas as informações contidas nesta página foram extraídas do site <a href="https://www.imdb.com/title/tt4154796/">IMDb.</a>
+
+</body>
+
+</html>
